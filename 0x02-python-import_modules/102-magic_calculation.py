@@ -1,10 +1,10 @@
 #!/usr/bin/python3
-# Author - Bamidele Adefolaju
-
-def magic_calculation(a, b, c):
-    """Match bytecode provided by Holberton School."""
+def magic_calculation(a, b):
+    from magic_calculation_102 import add, sub
     if a < b:
-        return (c)
-    if c > b:
-        return (a + b)
-    return (a*b - c)
+        c = add(a, b)
+        for i in range(4, 6):
+            c = add(c, i)
+        return(c)
+
+    return(sub(a, b))
