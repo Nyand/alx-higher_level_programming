@@ -18,3 +18,5 @@ Tasks ✔
 12.Function def roman_to_int(roman_string): that converts a Roman numeral to an integer.
 13.Function that returns the weighted average of all integers tuple (, )
 14.Function that computes the square value of all integers of a matrix using map
+15.Function that deletes keys with a specific value in a dictionary.
+
