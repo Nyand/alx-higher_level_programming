@@ -9,3 +9,4 @@ Tasks ✔
 3.Function that returns a set of common elements in two sets
 4.Function that returns a set of all elements present in only one set.
 5.Function that returns the number of keys in a dictionary.
+6.Function that prints a dictionary by ordered keys.
