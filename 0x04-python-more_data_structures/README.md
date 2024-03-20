@@ -10,3 +10,4 @@ Tasks ✔
 4.Function that returns a set of all elements present in only one set.
 5.Function that returns the number of keys in a dictionary.
 6.Function that prints a dictionary by ordered keys.
+7.Function that replaces or adds key/value in a dictionary.
