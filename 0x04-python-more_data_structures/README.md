@@ -8,3 +8,4 @@ Tasks ✔
 2.Function that adds all unique integers in a list (only once for each integer)
 3.Function that returns a set of common elements in two sets
 4.Function that returns a set of all elements present in only one set.
+5.Function that returns the number of keys in a dictionary.
