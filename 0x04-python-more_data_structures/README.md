@@ -13,3 +13,4 @@ Tasks ✔
 7.Function that replaces or adds key/value in a dictionary.
 8.Function that deletes a key in a dictionary.
 9.Function that returns a new dictionary with all values multiplied by 2
+10.Function that returns a key with the biggest integer value.
