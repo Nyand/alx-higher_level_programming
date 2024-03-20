@@ -14,3 +14,4 @@ Tasks ✔
 8.Function that deletes a key in a dictionary.
 9.Function that returns a new dictionary with all values multiplied by 2
 10.Function that returns a key with the biggest integer value.
+11.Function that returns a list with all values multiplied by a number without using any loops.
