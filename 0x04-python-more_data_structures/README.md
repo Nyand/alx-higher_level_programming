@@ -17,4 +17,4 @@ Tasks ✔
 11.Function that returns a list with all values multiplied by a number without using any loops.
 12.Function def roman_to_int(roman_string): that converts a Roman numeral to an integer.
 13.Function that returns the weighted average of all integers tuple (, )
-
+14.Function that computes the square value of all integers of a matrix using map
