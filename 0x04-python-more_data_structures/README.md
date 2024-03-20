@@ -12,3 +12,4 @@ Tasks ✔
 6.Function that prints a dictionary by ordered keys.
 7.Function that replaces or adds key/value in a dictionary.
 8.Function that deletes a key in a dictionary.
+9.Function that returns a new dictionary with all values multiplied by 2
